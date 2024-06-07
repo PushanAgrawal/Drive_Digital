@@ -31,7 +31,7 @@ export default function Home(){
             //     })}
             //     viewport={{amount:0.3}}
             // >
-                // <OurDiff/>
+            //     <OurDiff/>
             // </motion.div>
 
             // <motion.div
@@ -47,7 +47,7 @@ export default function Home(){
             //     })}
             //     viewport={{amount:0.3}}
             // >
-            //     // <HowItWorks/>
+            //     <HowItWorks/>
             // </motion.div>
             // <motion.div
             //  onViewportEnter={()=>controls.start({
@@ -61,7 +61,7 @@ export default function Home(){
 
             // })}
             // viewport={{amount:0.3}}>
-            //     // <WhoWeInvestIn/>
+            //     <WhoWeInvestIn/>
             // </motion.div>
 
             
