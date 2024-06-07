@@ -62,10 +62,7 @@ export default function Home(){
             // })}
             // viewport={{amount:0.3}}>
             //     <WhoWeInvestIn/>
-            // </motion.div>
-
-            
-          
+            // </motion.div> 
         </motion.div>
     );
 
