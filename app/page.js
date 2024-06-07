@@ -18,51 +18,7 @@ export default function Home(){
             <Hero/>
             <BrandingVideo/>
             <Whatwedo/>
-            // <motion.div
-            //     onViewportEnter={()=>controls.start({
-            //         backgroundColor:"var(--secondary-color)",
-                
-
-            //     })}
-
-            //     onViewportLeave={()=>controls.start({
-            //         backgroundColor:"white",
-
-            //     })}
-            //     viewport={{amount:0.3}}
-            // >
-            //     <OurDiff/>
-            // </motion.div>
-
-            // <motion.div
-            //     onViewportEnter={()=>controls.start({
-            //         backgroundColor:"white",
-                
-
-            //     })}
-
-            //     onViewportLeave={()=>controls.start({
-            //         backgroundColor:"var(--secondary-color)",
-
-            //     })}
-            //     viewport={{amount:0.3}}
-            // >
-            //     <HowItWorks/>
-            // </motion.div>
-            // <motion.div
-            //  onViewportEnter={()=>controls.start({
-            //     backgroundColor:"var(--primary-color)"
-            
-
-            // })}
-
-            // onViewportLeave={()=>controls.start({
-            //     backgroundColor:"var(--secondary-color)",
-
-            // })}
-            // viewport={{amount:0.3}}>
-            //     <WhoWeInvestIn/>
-            // </motion.div> 
+           
         </motion.div>
     );
 
